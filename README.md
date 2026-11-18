@@ -14,7 +14,10 @@
 * 图表纵轴单位已统一转换为“万”。
 
 ## 📊 4. 核心数据展现
-*(这里插入你截图的这两张柱状图)*
+<img width="325" height="217" alt="image" src="https://github.com/user-attachments/assets/d54ea8e3-4075-4cf3-937b-5556e69645fe" />
+<img width="310" height="217" alt="image" src="https://github.com/user-attachments/assets/0fcb3f69-30af-47fe-8a19-d0ad7c554444" />
+
+
 
 ## 💡 5. 业务洞察与下一步建议
 * **客群与区域**：个人消费者（Consumer）贡献了最大销售份额；西部区域（West）是最大的销售阵地。
